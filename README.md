@@ -34,18 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=A-genius-player&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-genius-player&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=A-genius-player&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🚀 精选项目
+##  精选项目
 
 ### 🧠 [DTU-SMMA-CS](https://github.com/A-genius-player/DTU-SMMA-CS)
 
